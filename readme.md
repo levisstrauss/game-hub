@@ -6,3 +6,5 @@
     - npm install chakra
     - https://chakra-ui.com/getting-started/vite-guide -> install vite depen.
     - Folow the doc to set up the react project
+
+    - git log --oneline
