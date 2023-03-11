@@ -20,3 +20,7 @@
        - Configure the API configuration in services folder
        - Install axios: npm i axios
        - baseUrl: API -> read docs -> games -> get the url remove /game at the end
+
+------- Use React Icons ----------->
+
+     - npm i react-icons@4.7.1
