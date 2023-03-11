@@ -1,4 +1,4 @@
-------- Game hub -----------
+------- Game hub ----------->
   
     Game hub is a website where user can interact.......
 
@@ -8,3 +8,7 @@
     - Folow the doc to set up the react project
 
     - git log --oneline
+
+------- Adding the dark mode ----------->
+
+     - Follow the docs
