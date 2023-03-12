@@ -20,6 +20,16 @@
        - Install axios: npm i axios
        - baseUrl: API -> read docs -> games -> get the url remove /game at the end
 
-------- Use React Icons ----------->
+------- Use React Icons -------------------->
 
      - npm i react-icons@4.7.1
+
+------- Building the entire application using chakra UI ----------->
+
+------- Building For production ----------->
+
+    -> npm run build
+    -> Push the code on github
+    -> vercel.com  to create and account
+    -> Intall vercel cli: npm i -g vercel
+    -> To deply: run vercel
