@@ -34,4 +34,4 @@
     -> Intall vercel cli: npm i -g vercel
     -> To deply: run vercel
 
-![test] (https://github.com/levisstrauss/game-hub/blob/main/screenshot/sc1.png)
+![test] (screenshot/sc1.png)
