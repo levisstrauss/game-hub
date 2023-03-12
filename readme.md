@@ -1,4 +1,4 @@
-------- Game hub ----------->
+----------------------------- Game hub ------------------------>
   
     Game hub is a website where user can interact.......
 
@@ -8,7 +8,6 @@
     - Folow the doc to set up the react project
 
     - git log --oneline  to see all the commit 
-
 
 ------- Dividing the page in chakra using chakra Grid system----------->
 
