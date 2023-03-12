@@ -34,4 +34,4 @@
     -> Intall vercel cli: npm i -g vercel
     -> To deply: run vercel
 
-![test] (screenshot/sc1.png)
+<img src="/src/assets/sc1.png" alt="Alt Gamehub">
