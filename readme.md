@@ -1,11 +1,13 @@
 ----------------------------- Game hub ------------------------>
   
-    Game hub is a website where user can interact.......
+    Gamehub is a website where users can interact.......
 
-    - Built with React, vite and Chakra UI
+    Check out the website here: https://game-hub-gamma.vercel.app/
+
+    - Built with React, Vite and Chakra UI
     - npm install chakra
-    - https://chakra-ui.com/getting-started/vite-guide -> install vite depen.
-    - Folow the doc to set up the react project
+    - https://chakra-ui.com/getting-started/vite-guide -> install vite dependencies.
+    - Follow the doc to set up the react project
 
     - git log --oneline  to see all the commit 
 
@@ -15,10 +17,10 @@
 
 ------- Fetching the game API ----------->
  
-       - https://rawg.io/ -> create an account to get an API key
-       - Configure the API configuration in services folder
+       - https://rawg.io/ -> Create an account to get an API key
+       - Configure the API configuration in the services folder
        - Install axios: npm i axios
-       - baseUrl: API -> read docs -> games -> get the url remove /game at the end
+       - baseUrl: API -> read docs -> games -> get the URL remove /game at the end
 
 ------- Use React Icons -------------------->
 
@@ -29,9 +31,9 @@
 ------- Building For production ----------->
 
     -> npm run build
-    -> Push the code on github
-    -> vercel.com  to create and account
+    -> Push the code on GitHub
+    -> vercel.com  to create an account
     -> Intall vercel cli: npm i -g vercel
-    -> To deply: run vercel
+    -> To deploy: run vercel
 
 <img src="/src/assets/sc1.png" alt="Alt Gamehub">
